@@ -9,6 +9,6 @@ public class Solution
     public static void main(String[] args)
     {
         //Напишите тут ваш код
-        System.out.println ("Жить хорошо, а хорошо жить еще лучше - бля буду!!!");
+        System.out.println ("Жить хорошо, а хорошо жить еще лучше - бля буду 852!!!");
     }
 }
